@@ -82,7 +82,7 @@
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
   .navbar-brand img {
-    width: 40%;
+    width: 80px;
   }
   .navbar-expand-md .navbar-nav .nav-link {
     padding: 8px 5px;
